@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Biacchi
 - 👀 I’m interested in programming in general, I'm just learning for fun at the moment 
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on anything I can find
 - 📫 How to reach me ... don't!
 
