@@ -4,17 +4,17 @@
 
 </div>
 
-Hey, I'm **Gabriel** from Brazil. I build with Claude Code every day, automate whatever bores me, and I'm already counting the days until GTA VI. E aí, bora? 🌴
+Hey, I'm **Gabriel** from Brazil. I'm into AI, Claude most of all: agentic development, automations and basically anything tech. Also counting the days until GTA VI. E aí, bora? 🌴
 
 <img src="assets/divider.svg" alt="" width="100%">
 
 ## 🌆 What I'm up to
 
-- 🤖 Building **AI agents** and **MCP servers** in Node.js. I like agents that ask before they act, so my Slack bots come with a human approval gate.
-- 🧮 Automating spreadsheets and data chores with Google Sheets, Excel and Power Automate. If I did it twice, a script does it next time.
-- 📊 A few years working with people analytics and data (Python/Pandas, SQL, BigQuery), now studying Psychology and Systems Analysis.
-- 🛠️ Making personal tools and games for fun: a local assistant called Iris, themes for Claude Code, small browser games.
-- 🐳 Putting things in Docker so they run on my machine *and* yours.
+- 🤖 Really into **Claude** and **agentic development**: agents that do real work, and ask before they act (my Slack bots come with a human approval gate).
+- ⚙️ Automating the boring stuff. If I did it twice, an agent or a script does it next time.
+- 🧪 Tinkering with anything tech: Arduino, tiny browser games, a local AI assistant, themes for Claude Code.
+- 🛒 I use Claude for almost everything, even grocery shopping.
+- 🎓 Studying Psychology and Systems Analysis, and still a CS50x kid at heart.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -26,13 +26,13 @@ Hey, I'm **Gabriel** from Brazil. I build with Claude Code every day, automate w
 
 </div>
 
-Also: JavaScript (freeCodeCamp certified, 2024) and a bit of PHP and R.
+Also: freeCodeCamp JavaScript certified (2024), data and spreadsheets when the job needs them (Python, SQL, Sheets), and a bit of PHP and R.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
 ## 🚗 Things I made
 
-The public garage (the good stuff is parked in private, ask me for a tour):
+The public garage: mostly early experiments and learning projects. The AI and agent work is parked in private, ask me for a tour:
 
 | Repo | The pitch |
 | --- | --- |
