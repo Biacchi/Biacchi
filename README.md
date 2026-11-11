@@ -12,7 +12,7 @@ Hey, I'm **Gabriel** from Brazil. I build with Claude Code every day, automate w
 
 - 🤖 Building **AI agents** and **MCP servers** in Node.js. I like agents that ask before they act, so my Slack bots come with a human approval gate.
 - 🧮 Automating spreadsheets and data chores with Google Sheets, Excel and Power Automate. If I did it twice, a script does it next time.
-- 📊 About 3 years working with people analytics and data (Python/Pandas, SQL, BigQuery), now studying Psychology and Systems Analysis.
+- 📊 A few years working with people analytics and data (Python/Pandas, SQL, BigQuery), now studying Psychology and Systems Analysis.
 - 🛠️ Making personal tools and games for fun: a local assistant called Iris, themes for Claude Code, small browser games.
 - 🐳 Putting things in Docker so they run on my machine *and* yours.
 
