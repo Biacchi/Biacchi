@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="48" viewBox="0 0 1200 48" role="img" aria-label="Neon divider">
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="1160" y2="0"><stop offset="0" stop-color="#7B2FF7" stop-opacity="0"/><stop offset="0.2" stop-color="#7B2FF7"/><stop offset="0.5" stop-color="#FF2E88"/><stop offset="0.8" stop-color="#FF8A00"/><stop offset="1" stop-color="#FF8A00" stop-opacity="0"/></linearGradient>
+<filter id="glow" x="-5%" y="-300%" width="110%" height="700%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="48" rx="8" fill="#0B0820"/>
+<g filter="url(#glow)"><rect x="40" y="22" width="1120" height="4" rx="2" fill="url(#g)"/>
+<path d="M40 24 H1160" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="14 46" stroke-linecap="round" opacity="0.8"><animate attributeName="stroke-dashoffset" values="0;-120" dur="2s" repeatCount="indefinite"/></path>
+<circle cy="24" r="6" fill="#00F5D4"><animate attributeName="cx" values="40;1160;40" dur="6s" repeatCount="indefinite"/></circle>
+<path d="M600 10 L614 24 L600 38 L586 24Z" fill="#0B0820" stroke="#FFD166" stroke-width="2.5"><animate attributeName="stroke" values="#FFD166;#00F5D4;#FF2E88;#FFD166" dur="4s" repeatCount="indefinite"/></path></g>
+</svg>

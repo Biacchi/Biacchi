@@ -1,0 +1,44 @@
+name: Generate snake
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # daily
+  workflow_dispatch:
+
+# No token permissions by default; the job below opts in to what it needs.
+permissions: {}
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      # Platane/snk v3.5.0, pinned by full commit SHA
+      - name: Build snake SVGs
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-light&color_snake=#FF2E88&color_dots=#ece6f7,#ffd9ec,#ff9ccb,#ff5fa9,#c4005f
+            dist/snake-dark.svg?palette=github-dark&color_snake=#FF2E88&color_dots=#1a1140,#4b1f8f,#7B2FF7,#FF2E88,#FF8A00
+
+      - name: Push to the output branch
+        run: |
+          set -euo pipefail
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add snake.svg snake-dark.svg
+          git commit -q -m "chore: update snake animation"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" output:output
