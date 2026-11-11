@@ -30,25 +30,9 @@ Also: freeCodeCamp JavaScript certified (2024), data and spreadsheets when the j
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## 🚗 Things I made
+## 🔒 In the lab
 
-The public garage: mostly early experiments and learning projects. The AI and agent work is parked in private, ask me for a tour:
-
-| Repo | The pitch |
-| --- | --- |
-| [React-starter](https://github.com/Biacchi/React-starter) | Where every React adventure begins. |
-| [Docker-Cloud-Functions](https://github.com/Biacchi/Docker-Cloud-Functions) | Cloud functions in a box. Works on my machine, and yours. |
-| [Psych-Therapies-Help](https://github.com/Biacchi/Psych-Therapies-Help) | Psychology meets code. Yes, the two majors do talk to each other. |
-| [Space-missions](https://github.com/Biacchi/Space-missions) | Houston, we have a dataset. |
-| [streamlit-finance-app](https://github.com/Biacchi/streamlit-finance-app) | Because spreadsheets deserve a glow-up. |
-| [Harry-Potter-API-Jupyter-Notebook](https://github.com/Biacchi/Harry-Potter-API-Jupyter-Notebook) | Wingardium Leviosa, but for API calls. |
-| [Kaggle-exercises](https://github.com/Biacchi/Kaggle-exercises) | Homework, but with leaderboards. |
-| [R-fake-clinical-trial](https://github.com/Biacchi/R-fake-clinical-trial) | 100% fake patients, 0% side effects. |
-| [Woodstock-1969-Dataset](https://github.com/Biacchi/Woodstock-1969-Dataset) | Peace, love and clean columns. |
-| [hr-analytics](https://github.com/Biacchi/hr-analytics) | A basic HR analytics notebook. People are numbers too (kidding, mostly). |
-| [email-automation](https://github.com/Biacchi/email-automation) | A Python script that sends many emails so I don't have to. |
-
-**Private, ask me for a tour:** a Slack bot with a human approval gate and read-only MCP tools, a local assistant (Iris), and a pack of Claude Code themes.
+Most of what I'm building right now (AI agents, a local assistant, Claude Code themes) lives in private repos for the moment. Ask me for a tour!
 
 <img src="assets/divider.svg" alt="" width="100%">
 
