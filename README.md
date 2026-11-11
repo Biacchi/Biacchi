@@ -14,7 +14,7 @@ Hey, I'm **Gabriel** from Brazil. I'm into AI, Claude most of all: agentic devel
 - ⚙️ Automating the boring stuff. If I did it twice, an agent or a script does it next time.
 - 🧪 Tinkering with anything tech: Arduino, tiny browser games, a local AI assistant, themes for Claude Code.
 - 🛒 I use Claude for almost everything, even grocery shopping.
-- 🎓 Studying Psychology and Systems Analysis, and still a CS50x kid at heart.
+- 🎓 Studying Systems Analysis, and still a CS50x kid at heart.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
