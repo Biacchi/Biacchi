@@ -36,7 +36,6 @@ The public garage (the good stuff is parked in private, ask me for a tour):
 
 | Repo | The pitch |
 | --- | --- |
-| [todo-vibes](https://github.com/Biacchi/todo-vibes) | A to-do app built with Windsurf AI. Vibes included, procrastination sold separately. |
 | [React-starter](https://github.com/Biacchi/React-starter) | Where every React adventure begins. |
 | [Docker-Cloud-Functions](https://github.com/Biacchi/Docker-Cloud-Functions) | Cloud functions in a box. Works on my machine, and yours. |
 | [Psych-Therapies-Help](https://github.com/Biacchi/Psych-Therapies-Help) | Psychology meets code. Yes, the two majors do talk to each other. |
@@ -47,10 +46,7 @@ The public garage (the good stuff is parked in private, ask me for a tour):
 | [R-fake-clinical-trial](https://github.com/Biacchi/R-fake-clinical-trial) | 100% fake patients, 0% side effects. |
 | [Woodstock-1969-Dataset](https://github.com/Biacchi/Woodstock-1969-Dataset) | Peace, love and clean columns. |
 | [hr-analytics](https://github.com/Biacchi/hr-analytics) | A basic HR analytics notebook. People are numbers too (kidding, mostly). |
-| [dummy-data](https://github.com/Biacchi/dummy-data) | Fake data for real experiments. |
-| [OOP-Login-System](https://github.com/Biacchi/OOP-Login-System) | A simple PHP login system. Please do not use it for your bank. |
 | [email-automation](https://github.com/Biacchi/email-automation) | A Python script that sends many emails so I don't have to. |
-| [my-first-php-crud](https://github.com/Biacchi/my-first-php-crud) | My very first CRUD. We all start somewhere. |
 
 **Private, ask me for a tour:** a Slack bot with a human approval gate and read-only MCP tools, a local assistant (Iris), and a pack of Claude Code themes.
 
