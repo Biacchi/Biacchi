@@ -4,7 +4,7 @@
 
 </div>
 
-Hey, I'm **Gabriel** from Brazil. I'm into AI, Claude most of all: agentic development, automations and basically anything tech. Also counting the days until GTA VI. E aí, bora? 🌴
+Hey, I'm **Gabriel** from Brazil. I'm into AI, Claude most of all: agentic development, automations and basically anything tech. Also counting the days until GTA VI. 🌴
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -41,7 +41,7 @@ Most of what I'm building right now (AI agents, a local assistant, Claude Code t
 - 🛹 I skate. The tests pass faster when I land the trick first.
 - 🎸 I play guitar. Skate for the legs, guitar for the soul.
 - 🎓 CS50x (Harvard, 2022) is what got me into tech. Thanks, David!
-- 🌴 GTA VI hype level: **unreasonable**. See the banner. Vice City, I'm coming, tá ligado?
+- 🌴 GTA VI hype level: **unreasonable**. See the banner. Vice City, I'm coming.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -57,4 +57,4 @@ Most of what I'm building right now (AI agents, a local assistant, Claude Code t
 
 </div>
 
-<img src="assets/footer.svg" alt="Sunset wave footer: see you in Vice City, valeu!" width="100%">
+<img src="assets/footer.svg" alt="Sunset wave footer: see you in Vice City" width="100%">
